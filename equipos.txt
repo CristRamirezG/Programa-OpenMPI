@@ -1,0 +1,18 @@
+AudaxItaliano -33.540833 -70.578333
+Cobresal -26.251944 -69.628611
+Colo-Colo -33.506611 -70.605944
+CoquimboUnido -29.965278 -71.338333
+CuricóUnido -34.974356 -71.230707
+DeportesAntofagasta -23.670139 -70.404583
+DeportesLa Serena -29.911111 -71.251944
+Everton -33.014444 -71.535000
+Huachipato -36.755556 -73.107222
+Ñublense -36.618056 -72.107500
+O'Higgins -34.177778 -70.737500
+Palestino -33.520833 -70.672778
+SantiagoWanderers -33.022278 -71.640000
+UniónEspañola -33.404553 -70.659017
+UniónLa Calera -32.784167 -71.199444
+UniversidadCatólica -33.395944 -70.500656
+UniversidaddeChile -33.464522 -70.610586
+UniversidaddeConcepción -36.815278 -73.023333
